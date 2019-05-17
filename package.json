@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "name": "hyperapp-pwa",
-  "description": "A ready-to-deploy progressive web app starter",
+  "description": "A ready-to-deploy progressive web app starter using hyperapp and parcel.",
   "author": "Dietrich Ayala (autonome@gmail.com)",
   "license": "MIT",
   "scripts": {
